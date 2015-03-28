@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1409247052 source:c:\users\haswin\desktop\c exam\ncursestest1\main.c
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1408272993 c:\users\haswin\desktop\c exam\ncursestest1\tictactoe.h
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+
+1408025596 c:\users\haswin\desktop\c exam\ncursestest1\ttt.h
+
+1409247176 source:c:\users\haswin\desktop\c exam\ncursestest1\graphics.c
+
+1408381821 source:c:\users\haswin\desktop\c exam\ncursestest1\consoleproperties.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409247178 source:c:\users\haswin\desktop\c exam\ncursestest1\gamelogics.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1409505198 source:c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\consoleproperties.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409509895 source:c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\gamelogics.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1408272993 c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\tictactoe.h
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409505321 c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\ttt.h
+
+1409508821 source:c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\graphics.c
+
+1409508065 source:c:\users\haswin\desktop\c tic final\tictactoe_teamalpha\main.c
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1409505200 source:w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\consoleproperties.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409509896 source:w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\gamelogics.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1408272994 w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\tictactoe.h
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409505322 w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\ttt.h
+
+1409508822 source:w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\graphics.c
+
+1409510088 source:w:\tictactoe_finalreadytoburn\tictactoe_teamalpha\main.c
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1409505200 source:c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\consoleproperties.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409509896 source:c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\gamelogics.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
+1408272994 c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\tictactoe.h
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+
+1409505322 c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\ttt.h
+
+1409508822 source:c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\graphics.c
+
+1410359275 source:c:\users\haswin\desktop\presentation_c\tictactoe_finalreadytoburn\tictactoe_teamalpha\main.c
+	<stdio.h>
+	<curses.h>
+	<panel.h>
+	<windows.h>
+	<mmsystem.h>
+	"TicTacToe.h"
+	"ttt.h"
+
